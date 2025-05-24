@@ -9,8 +9,9 @@ This project demonstrates how to connect with **Google Gemini 2.0** model using 
 ---
 
 
-## Create projects
+## install / Create projects
 
+pip install uv 
 uv init gemini-sdk-agent
 cd gemini-sdk-agent
 
