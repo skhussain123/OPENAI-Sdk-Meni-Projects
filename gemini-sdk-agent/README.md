@@ -16,13 +16,13 @@ cd gemini-sdk-agent
 
 
 #### Install Required Packages
-uv add openai-agents
-uv add python-dotenv
+uv add openai-agents<br>
+uv add python-dotenv<br>
 
 
 ## 🔧 Requirements
 
-Create Api Key on Google ai Studion
+**Create Api Key on Google ai Studion**
 https://aistudio.google.com/prompts/new_chat
 
 
@@ -31,7 +31,7 @@ https://aistudio.google.com/prompts/new_chat
 
 ### 1. Clone or Upload the Project
 
-If you are working locally:
+**If you are working locally:**
 ```bash
 git clone https://github.com/skhussain123/OPENAI-Sdk-Meni-Projects/tree/main/gemini-sdk-agent
 cd gemini-agent-colab
