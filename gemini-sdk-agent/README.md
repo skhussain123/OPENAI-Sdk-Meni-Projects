@@ -2,7 +2,7 @@
 
 
 
-# Gemini AI Agent (OpenAI-Style Chat) — Google Colab Compatible
+# Gemini AI Agent
 
 This project demonstrates how to connect with **Google Gemini 2.0** model using an **OpenAI-style interface**. It utilizes a custom `agents` framework to run prompts synchronously and receive structured responses, similar to ChatGPT.
 
