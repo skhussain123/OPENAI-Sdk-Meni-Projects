@@ -11,9 +11,9 @@ This project demonstrates how to connect with **Google Gemini 2.0** model using 
 
 ## install / Create projects
 
-pip install uv 
-uv init gemini-sdk-agent
-cd gemini-sdk-agent
+pip install uv <br>
+uv init gemini-sdk-agent<br>
+cd gemini-sdk-agent<br>
 
 
 #### Install Required Packages
