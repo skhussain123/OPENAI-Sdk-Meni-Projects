@@ -11,14 +11,18 @@ This project demonstrates how to connect with **Google Gemini 2.0** model using 
 
 ## install / Create projects
 
+```bash
 pip install uv <br>
 uv init gemini-sdk-agent<br>
 cd gemini-sdk-agent<br>
+```
 
 
 #### Install Required Packages
+```bash
 uv add openai-agents<br>
 uv add python-dotenv<br>
+```
 
 
 ### Generate Api Key
@@ -27,6 +31,11 @@ uv add python-dotenv<br>
 https://aistudio.google.com/prompts/new_chat
 
 
+
+### Run Project
+```bash
+uv run main.py
+```
 
 ### Setup
 
