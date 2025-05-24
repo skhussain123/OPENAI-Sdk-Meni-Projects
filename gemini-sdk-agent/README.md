@@ -21,14 +21,14 @@ uv add openai-agents<br>
 uv add python-dotenv<br>
 
 
-### 🔧 Generate Api Key
+### Generate Api Key
 
 **Create Api Key on Google ai Studion**
 https://aistudio.google.com/prompts/new_chat
 
 
 
-## 📦 Setup
+### Setup
 
 ### 1. Clone or Upload the Project
 
