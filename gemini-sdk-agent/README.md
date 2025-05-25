@@ -12,18 +12,22 @@ This project demonstrates how to connect with **Google Gemini 2.0** model using 
 ## install / Create projects
 
 ```bash
-pip install uv <br>
-uv init gemini-sdk-agent<br>
-cd gemini-sdk-agent<br>
+pip install uv 
+uv init gemini-sdk-agent
+cd gemini-sdk-agent
 ```
 
 
 #### Install Required Packages
 ```bash
-uv add openai-agents<br>
-uv add python-dotenv<br>
+uv add openai-agents
+uv add python-dotenv
 ```
 
+### Run Project
+```bash
+uv run main.py
+```
 
 ### Generate Api Key
 
@@ -32,16 +36,4 @@ https://aistudio.google.com/prompts/new_chat
 
 
 
-### Run Project
-```bash
-uv run main.py
-```
 
-### Setup
-
-### 1. Clone or Upload the Project
-
-**If you are working locally:**
-```bash
-git clone https://github.com/skhussain123/OPENAI-Sdk-Meni-Projects/tree/main/gemini-sdk-agent
-cd gemini-agent-colab
